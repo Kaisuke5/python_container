@@ -1,0 +1,6 @@
+numpy
+pandas
+ipython
+scipy
+sklearn
+jismesh==1.0.1
